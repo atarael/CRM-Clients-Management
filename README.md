@@ -1,4 +1,4 @@
-# CRM-Client-management
+# CRM-Clients-Management
 MERN PROJECT - Customer relationship management system to a variety of types of insurance.
 
 Requirements: Node.js, npm, MongoDB (Port 3000 and 8080 are allocated by default, in case you want to change the port, update the server file)
@@ -11,13 +11,17 @@ Clone the project with: git clone
 
 Install required modules with: run npm install
 
-Start client side with: run npm start
+Start client side with: 
+1. cd Frontend 
+2. npm i 
+3. npm start 
 
-Navigate into server folder: cd server
-
-Run the server: run node server.js or npm run dev
-
-Navigate in your browser to: http://localhost:3000/login
+Start server side with: 
+1. cd Backend
+2. npm i 
+3. npm run dev
+ 
+Navigate in your browser to: http://localhost:3000
 
 login details exemple:
 
