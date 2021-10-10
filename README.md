@@ -3,7 +3,7 @@ MERN PROJECT - Customer relationship management system to a variety of types of 
 
 Requirements: Node.js, npm, MongoDB (Port 3000 and 8080 are allocated by default, in case you want to change the port, update the server file)
 
-How to:
+How to: 
 
 Create new folder to project, cd into the directory.
 
